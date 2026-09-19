@@ -19,6 +19,8 @@ Principal Software Engineer working on cybersecurity platforms — distributed s
 
 I write about engineering judgment, AI security, and systems thinking at [Medium](https://nittikkin.medium.com):
 
+- [Your AI Agent Cannot Defend Itself With a Log It Wrote](https://medium.com/beyond-localhost/your-ai-agent-cannot-defend-itself-with-a-log-it-wrote-652a3745b025) — why a self-authored execution log isn't accountability evidence, the question tallystick's harness makes precise
+- [The Voynich Manuscript — You Can't Read It. You Can Still Measure It.](https://thequantasticjournal.com/voynich-manuscript-you-cant-read-it-you-can-still-measure-it-fe9158051e8a) — the structural-similarity measure behind voynich-transfer, for a general audience
 - [Agent Workflows Are Rediscovering Durable Execution](https://nittikkin.medium.com/agent-workflows-are-rediscovering-durable-execution-be110661ed8c) — the missing layer is definitions, execution records, identity, policy, and replay
 - [The Human Consensus Protocol in Your Browser](https://nittikkin.medium.com/the-human-consensus-protocol-in-your-browser-6b7cf3614bcb) — why "click = consent" is broken, and why AI agents make it urgent
 - [Using AI Against AI (Without Fooling Ourselves)](https://nittikkin.medium.com/using-ai-against-ai-without-fooling-ourselves-ad04b766a214)
