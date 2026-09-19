@@ -1,8 +1,8 @@
 # Hi, I'm Nitin Stephen Koshy
 
-Principal Software Engineer working on cybersecurity platforms — distributed systems at serious scale (6M+ endpoints, ~4M requests/minute), AI security, and agentic software governance. 20+ years of designing, building, and operating cloud-native SaaS.
+Principal Engineer building cybersecurity platforms — distributed systems at serious scale (6M+ endpoints, ~4M requests/minute, 99.99% availability), real-time threat scoring at sub-200ms p95, and a governed semantic data layer over that telemetry. I build applied AI-security systems end to end, including AgenticGuard, an endpoint sidecar for MCP/AI-tool discovery, prompt-injection detection, and tamper-evident audit. 20+ years designing, building, and operating cloud-native distributed systems.
 
-**Current interests:** endpoint telemetry and threat scoring, governance for AI agents (MCP discovery, prompt-injection detection, safe-agent contracts), offline/edge ML with ONNX, and reliability engineering that treats uncertainty honestly.
+**Current interests:** AI-agent governance and tamper-evident audit (MCP discovery, prompt-injection detection, safe-agent contracts), accountability limits for delegated agentic action, offline/edge ML with ONNX, structural measurement of undeciphered writing systems, and reliability engineering that treats uncertainty honestly.
 
 ## Projects
 
